@@ -1,0 +1,22 @@
+{
+  "name": "perpetutest-beer-poll",
+  "version": "1.0.0",
+  "description": "Test the live app stlouisbeers.glitch.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome smoketest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessitron/perpetutest-beer-poll.git"
+  },
+  "author": "Avdi Grimm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessitron/perpetutest-beer-poll/issues"
+  },
+  "homepage": "https://github.com/jessitron/perpetutest-beer-poll#readme",
+  "dependencies": {
+    "testcafe": "^0.23.3"
+  }
+}
